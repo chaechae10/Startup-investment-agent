@@ -36,6 +36,17 @@
 ## 🧩 Architecture
 <img width="778" height="1246" alt="Image" src="https://github.com/user-attachments/assets/99c41f80-8bf7-46ab-b678-36cafaf040c0" />
 
+## 🔢 Evaluation
+| 섹션           | 만점 | 문항 수 | 
+| ------------ | -: | ---: | 
+| Owner        | 30 |    6 |
+| Market       | 25 |    6 |   
+| Product/Tech | 15 |    6 |  
+| Moat         | 10 |    5 |  
+| Traction     | 10 |    5 | 
+| Deal Terms   | 10 |    6 |
+
+
 ## 📂 Directory Structure
 - **data/**: 분석할 스타트업 PDF 문서를 저장합니다.  
 - **agents/**: 평가 기준(시장성, 기술력 등)에 따라 동작하는 개별 Agent 모듈이 위치합니다.  
