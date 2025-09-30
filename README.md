@@ -48,6 +48,6 @@
 - 김정윤 : Prompt Engineering, 보고서 생성 에이전트
 - 김채연 : 경쟁사 분석 에이전트, 서비스 구조 도식화
 - 신동연 : 시장성 평가 에이전트, 기술 요약 에이전트 State 출력, 임베딩 수정
-- 원주혜 : Langgraph 기반 에이전트 통합
+- 원주혜 : 오케스트레이터 에이전트, Langgraph 기반 에이전트 통합
 - 전혜민 : 투자 판단 에이전트, RAG용 raw data 구득 
 - 정성희 : Prompt Engineering, 기술요약 에이전트
