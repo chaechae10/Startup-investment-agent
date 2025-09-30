@@ -2,7 +2,7 @@
 .venv/
 
 # 임시/로컬 파일
-ll.md
+ll.env
 
 # Python 캐시
 __pycache__/
