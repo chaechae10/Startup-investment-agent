@@ -34,7 +34,7 @@
 
 
 ## 🧩 Architecture
-<img width="480" height="704" alt="Image" src="https://github.com/user-attachments/assets/bf298d34-a8c5-47e9-ab40-46209e400fe8" />
+<img width="778" height="1246" alt="Image" src="https://github.com/user-attachments/assets/99c41f80-8bf7-46ab-b678-36cafaf040c0" />
 
 ## 📂 Directory Structure
 - **data/**: 분석할 스타트업 PDF 문서를 저장합니다.  
